@@ -4,7 +4,7 @@ Albania,Albania,Albania,AL,ALB,2866376,41.1533,20.1683,Europe
 Algeria,Algeria,Argelia,DZ,DZA,42228429,28.0339,1.6596,Africa
 Andorra,Andorra,Andorra,AD,AND,77006,42.5063,1.5218,Europe
 Angola,Angola,Angola,AO,AGO,30809762,-11.2027,17.8739,Africa
-Anguilla,Anguilla,Anguila,AI,,,18.2205544,-63.068615,America
+Anguilla,Anguilla,Anguila,AI,AIA,15094,18.2205544,-63.068615,America
 Antigua and Barbuda,Antigua_and_Barbuda,Antigua y Barbuda,AG,ATG,96286,17.0608,-61.7964,America
 Argentina,Argentina,Argentina,AR,ARG,44494502,-38.4161,-63.6167,America
 Armenia,Armenia,Armenia,AM,ARM,2951776,40.0691,45.0382,Europe
@@ -23,7 +23,7 @@ Benin,Benin,Benin,BJ,BEN,11485048,9.3077,2.3158,Africa
 Bermuda,Bermuda,Bermudas,BM,BMU,63968,32.3213844,-64.75737,America
 Bhutan,Bhutan,Butan,BT,BTN,754394,27.5142,90.4336,Asia
 Bolivia,Bolivia,Bolivia,BO,BOL,11353142,-16.2902,-63.5887,America
-Bonaire,"Bonaire, Saint Eustatius and Saba",Bonaire,BQ,,,12.1783609,-68.238533,America
+Bonaire,"Bonaire, Saint Eustatius and Saba",Bonaire,BQ,BES,30000,12.1783609,-68.238533,America
 Bosnia and Herzegovina,Bosnia_and_Herzegovina,Bosnia y Herzegovina,BA,BIH,3323929,43.9159,17.6791,Europe
 Botswana,Botswana,Botsuana,BW,BWA,2254126,8.460555,-11.779889,Africa
 Brazil,Brazil,Brasil,BR,BRA,209469333,-14.235,-51.9253,America
@@ -59,11 +59,11 @@ Ecuador,Ecuador,Ecuador,EC,ECU,17084357,-1.8312,-78.1834,America
 Egypt,Egypt,Egipto,EG,EGY,98423595,26,30,Africa
 El Salvador,El_Salvador,El Salvador,SV,SLV,6420744,13.7942,-88.8965,America
 Equatorial Guinea,Equatorial_Guinea,Guinea Ecuatorial,GQ,GNQ,1308974,1.5,10,Africa
-Eritrea,Eritrea,Eritrea,ER,ERI,,15.1794,39.7823,Africa
+Eritrea,Eritrea,Eritrea,ER,ERI,5869869,15.1794,39.7823,Africa
 Estonia,Estonia,Estonia,EE,EST,1320884,58.5953,25.0136,Europe
 Eswatini,Eswatini,Suazilandia,SZ,SWZ,1367000,-26.5225,31.4659,Africa
 Ethiopia,Ethiopia,Etiopia,ET,ETH,109224559,9.145,40.4897,Africa
-Falkland Islands,Falkland_Islands_(Malvinas),Islas Malvinas,FK,ARG,,-51.7963,-59.5236,America
+Falkland Islands,Falkland_Islands_(Malvinas),Islas Malvinas,FK,ARG,2840,-51.7963,-59.5236,America
 Faroe Islands,Faroe_Islands,Islas Feroe,FO,FRO,48497,-17.7134,178.065,Europe
 Fiji,Fiji,Fiyi,FJ,FJI,883483,-16.5781937,179.4144135,Oceania
 Finland,Finland,Finlandia,FI,FIN,5518050,64,26,Europe
@@ -76,7 +76,7 @@ Germany,Germany,Alemania,DE,DEU,82927922,51,9,Europe
 Ghana,Ghana,Ghana,GH,GHA,29767108,7.9465,-1.0232,Africa
 Gilbraltar,Gibraltar,Gibraltar,GI,GIB,33718,36.1377411,-5.3453741,Europe
 Greece,Greece,Grecia,EL,GRC,10727668,39.0742,21.8243,Europe
-Greenland,Greenland,Groenlandia,GL,GRL,56025,,,America
+Greenland,Greenland,Groenlandia,GL,GRL,56025,40,72,America
 Grenada,Grenada,Granada,GD,GRD,111454,34.802075,38.996815,America
 Guam,Guam,Guam,GU,GUM,165768,13.4443045,144.7937317,Oceania
 Guatemala,Guatemala,Guatemala,GT,GTM,17247807,15.7835,-90.2308,America
@@ -157,7 +157,7 @@ Qatar,Qatar,Catar,QA,QAT,2781677,60,90,Asia
 Romania,Romania,Rumania,RO,ROU,19473936,-1.9403,29.8739,Europe
 Russia,Russia,Rusia,RU,RUS,144478050,13.9094,-60.9789,Europe
 Rwanda,Rwanda,Ruanda,RW,RWA,12301939,12.9843,-61.2872,Africa
-Saint Kitts and Nevis,Saint_Kitts_and_Nevis,San Pedro y Miquel?n,KN,KNA,52441,,,America
+Saint Kitts and Nevis,Saint_Kitts_and_Nevis,San Pedro y Miquel?n,KN,KNA,52441,21.75,-71.5833,America
 Saint Lucia,Saint_Lucia,Santa Lucia,LC,LCA,181889,43.9424,12.4578,America
 Saint Vincent and the Grenadines,Saint_Vincent_and_the_Grenadines,San Vicente,VC,VCT,110210,24,45,America
 San Marino,San_Marino,San Marino,SM,SMR,33785,14.4974,-14.4524,Europe
@@ -168,7 +168,7 @@ Serbia,Serbia,Serbia,RS,SRB,6982084,1.2833,103.8333,Europe
 Seychelles,Seychelles,Seychelles,SC,SYC,96762,48.669,19.699,Africa
 Sierra Leone,Sierra_Leone,Sierra Leona,SL,SLE,7650154,-13.254308,34.301525,Africa
 Singapore,Singapore,Singapur,SG,SGP,5638676,46.1512,14.9955,Asia
-Sint Maarten,Sint_Maarten,San Martin,SX,SXM,41486,,,America
+Sint Maarten,Sint_Maarten,San Martin,SX,SXM,41486,18.0424805,-63.0548286,America
 Slovakia,Slovakia,Eslovaquia,SK,SVK,5447011,5.1521,46.1996,Europe
 Slovenia,Slovenia,Eslovenia,SI,SVN,2067372,36,128,Europe
 Somalia,Somalia,Somalia,SO,SOM,15008154,-30.5595,22.9375,Africa
