@@ -130,7 +130,7 @@ Montenegro,Montenegro,Montenegro,ME,MNE,622345,42.5,19.3,Europe
 Montserrat,Montserrat,Montserrat,MS,MSR,5900,16.7424984,-62.1873665,America
 Morocco,Morocco,Marruecos,MA,MAR,36029138,31.7917,-7.0926,Africa
 Mozambique,Mozambique,Mozambique,MZ,MOZ,29495962,-18.6656952,35.5295639,Africa
-Myanmar,Myanmar,Myanmar,MM,MMR,53708395,-8.874217,125.727539,Asia
+Burma,Burma,Myanmar,MM,MMR,53708395,-8.874217,125.727539,Asia
 Namibia,Namibia,Namibia,NA,NAM,2448255,-22.9576,18.4904,Africa
 Nepal,Nepal,Nepal,NP,NPL,28087871,28.1667,84.25,Asia
 Netherlands,Netherlands,Paises Bajos,NL,NLD,17231017,52.1326,5.2913,Europe
@@ -204,3 +204,8 @@ Vietnam,Vietnam,Vietnam,VN,VNM,95540395,-20,30,Asia
 Yemen,Yemen,Yemen,YE,YEM,28498687,15.5527267,48.5163879,Asia
 Zambia,Zambia,Zambia,ZM,ZMB,17351822,-13.1338968,27.8493328,Africa
 Zimbabwe,Zimbabwe,Zimbabue,ZW,ZWE,14439018,15.415,-61.371,Africa
+Comoros,Comoros,Comoras,KM,COM,850688,-11.6519809,43.3725967,Africa
+Diamond Princess,Diamond Princess,Crucero Diamond Princess,A0,A00,3711,0,0,Crucero
+MS Zaandam,MS Zaandam,Crucero MS Zaandam,A1,A01,1432,0,0,Crucero
+Tajikistan,Tajikistan,Tayikistan,TJ,TKJ,8610000,38.8581784,71.2479841,Asia
+Western Sahara,Western Sahara,Shara Occidental,EH,DMS,582000,27.154339,-13.199891,Africa
